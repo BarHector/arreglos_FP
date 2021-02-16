@@ -1,0 +1,67 @@
+Estos son distintos ejercicios de arreglos. Todos los ejercicios al principio
+tienen un comentario en el que se menciona que se hace en el programa.
+
+Dependiendo del ejercicio se usaran o no los modulos. Ademas de que se usan ciclos 'while'
+condiciones como 'if'. Bien se podrian usar ciclo 'for'.
+
+Ademas de que todos los ejercicios contienen el ciclo 'while', tienen tambien contadores para
+llevar un conteo del número de elementos que se ingresan
+
+Ejercicio 1:
+    Se leen 10 números enteros ingresados por el usuario y se muestran en pantalla
+
+Ejercicio 2
+    Se leen 10 números reales ingresados por el usuario y se muestran en pantalla
+
+Ejercicio 3
+    Se lee una cadena de 10 caracteres maximo, si tiene 10 caracteres o menos se
+    muestra en pantalla, de no cumplir esa condicion se mostrara en pantalla un 
+    mensaje que dice que la palabra tiene mas de 10 letras.
+
+    Nota:
+    Se usa la funcion strlen para contar el número de caracteres que ingreso el 
+    usuario.
+
+Ejercicio 4
+    El usuario ingresa 10 números enteros, despues ingresará otro número para verificar
+    si aparece en los 10 números que ingreso el usuario. Al final imprimira la cantidad
+    de veces que se ingreso dicho número
+
+Ejercicio 5
+    El usuario ingresara 12 números enteros que esten entre 10 y 30, si ingresa uno que no se 
+    encuentre en dicho rango, se mostrara en pantalla un mensaje que dice que se ingrese 
+    un número que si este en el rango. Por ultimo se mostraran en pantalla los números que
+    haya ingresado el usaurio y que sean pares.
+
+    Para este ejercicio se usa el modulo, que en lenguaje C es el simbolo de porcentaje (%).
+    Recordemos que el modulo devuelve el residuo de la division. En este caso para saber si 
+    par el modulo debe ser igual a cero.
+
+Ejercicio 6
+    El usuario ingresara 15 números enteros que esten entre 20 y 50, como en el ejercicio anterior si 
+    se ingresa un número que no este en el rango se pedira que se ingrese uno que si lo este.
+    Posteriormente se imprimiran los números que se ingresaron y se sumaran los pares y los 
+    impares. Al final se mostrara la suma de los pares y de los impares.
+
+Ejercicio 7
+    El usuario ingresara 15 números enteros que esten entre 5 y 25, se revisa que dichos números
+    ingresados esten en el rango. Posteriormente se imprimen los números, por ultimo se imprimen 
+    nuevamente mencionando si es par o si es impar.
+
+    Para este ejercicio se usa el modulo.
+
+Ejercicio 8
+    En este ejercicio se le pide al usuario que ingrese el tamaño del arreglo. Inmediatamente se 
+    le pedira la cantidad de números necesarios para llenar dicho arreglo. Al final se imprimiran 
+    todos los números ingresados.
+
+Ejercicio 9
+    En este ejercicio el usuario debe de llenar 2 arreglos de 12 números cada uno. Posteriormente se
+    imprimiran los nuúmeros ingrados y tambien un tercer arreglo en el cual se encuentra la suma de 
+    los números de cada arreglo con su respectiva posicion, en otras palabras, la primera posicion del 
+    primer arreglo se suma con la primera del segundo, y asi con los otros  números
+
+Ejercicio 10
+    En el ultimo ejercicio el usuario debe de ingresar números, primero se imprimira todo el arreglo,
+    despues un segundo arreglo en el cual se encuentran solo los números pares, por ultimo se imprimira
+    un tercer arreglo que contiene a los impares.
